@@ -1,0 +1,17 @@
+{
+    "name": "vitormarinheiro1/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vitormarinheiro1\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vitormarinheiro1",
+            "email": "vitormarinheiro9@gmail.com"
+        }
+    ],
+    "require": {}
+}
